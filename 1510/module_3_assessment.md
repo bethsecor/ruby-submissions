@@ -8,7 +8,7 @@ Please submit a link to your repo:
 * Dan Winter: https://github.com/danjwinter/module_3_assessment
 * David Stinnette:
 * Edgar Duran:
-* Beth Secor:
+* Beth Secor: https://github.com/bethsecor/module_3_assessment
 * Greg Armstrong:
 * Hector Huertas Baeza:
 * James Crockett:
